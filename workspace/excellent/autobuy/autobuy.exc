@@ -1,0 +1,186 @@
+{
+  "items": [
+    {
+      "item": "item.minecraft.diamond",
+      "price": 5000,
+      "enabled": true
+    },
+    {
+      "item": "item.minecraft.golden_apple",
+      "price": 10000,
+      "enabled": true
+    },
+    {
+      "item": "item.minecraft.experience_bottle",
+      "price": 1500,
+      "enabled": true
+    },
+    {
+      "item": "item.minecraft.firework_rocket",
+      "price": 1500,
+      "enabled": true
+    },
+    {
+      "item": "item.minecraft.zombie_villager_spawn_egg",
+      "price": 180000,
+      "enabled": true
+    },
+    {
+      "item": "item.minecraft.villager_spawn_egg",
+      "price": 400000,
+      "enabled": true
+    },
+    {
+      "item": "item.minecraft.enchanted_golden_apple",
+      "price": 100000,
+      "enabled": true
+    },
+    {
+      "item": "item.minecraft.elytra",
+      "price": 300000,
+      "enabled": true
+    },
+    {
+      "item": "block.minecraft.dragon_head",
+      "price": 250000,
+      "enabled": true
+    },
+    {
+      "item": "block.minecraft.wither_skeleton_skull",
+      "price": 250000,
+      "enabled": true
+    },
+    {
+      "item": "item.minecraft.totem_of_undying",
+      "price": 90000,
+      "enabled": true
+    },
+    {
+      "item": "block.minecraft.ancient_debris",
+      "price": 250000,
+      "enabled": true
+    },
+    {
+      "item": "item.minecraft.netherite_ingot",
+      "price": 1000000,
+      "enabled": true
+    },
+    {
+      "item": "item.minecraft.iron_nugget",
+      "price": 30000,
+      "enabled": true,
+      "tooltips": [
+        "§b[★]§3 Серебро"
+      ]
+    },
+    {
+      "item": "block.minecraft.tripwire_hook",
+      "price": 8000000,
+      "enabled": true,
+      "tooltips": [
+        "§9С Сферами"
+      ]
+    },
+    {
+      "item": "block.minecraft.tripwire_hook",
+      "price": 200000,
+      "enabled": true,
+      "tooltips": [
+        "§9С Инструментами"
+      ]
+    },
+    {
+      "item": "block.minecraft.tripwire_hook",
+      "price": 1750000,
+      "enabled": true,
+      "tooltips": [
+        "§9С Ресурсами"
+      ]
+    },
+    {
+      "item": "block.minecraft.tripwire_hook",
+      "price": 1350000,
+      "enabled": true,
+      "tooltips": [
+        "§9С Оружием"
+      ]
+    },
+    {
+      "item": "block.minecraft.tripwire_hook",
+      "price": 8000000,
+      "enabled": true,
+      "tooltips": [
+        "§9С Сферами"
+      ]
+    },
+    {
+      "item": "item.minecraft.splash_potion",
+      "price": 1000000,
+      "enabled": true,
+      "tooltips": [
+        "[★] Зелье агента"
+      ]
+    },
+    {
+      "item": "item.minecraft.netherite_helmet",
+      "price": 250000,
+      "enabled": true,
+      "enchants": {
+        "36": [
+          1
+        ],
+        "0": [
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "item": "item.minecraft.netherite_chestplate",
+      "price": 250000,
+      "enabled": true,
+      "enchants": {
+        "36": [
+          1
+        ],
+        "0": [
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "item": "item.minecraft.netherite_leggings",
+      "price": 250000,
+      "enabled": true,
+      "enchants": {
+        "36": [
+          1
+        ],
+        "0": [
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "item": "item.minecraft.netherite_boots",
+      "price": 250000,
+      "enabled": true,
+      "enchants": {
+        "36": [
+          1
+        ],
+        "0": [
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "item": "block.minecraft.shulker_box",
+      "price": 10000,
+      "enabled": true
+    }
+  ]
+}
